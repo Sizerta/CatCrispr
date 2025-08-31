@@ -22,7 +22,7 @@ Designing efficient sgRNAs is essential for accurate **CRISPR-Cas9** genome edit
 1. 🐱 **CatBoost regression** for sgRNA efficiency prediction  
 2. 🔡 **One-hot encoding** of sgRNA sequences  
 3. 🔄 **5-fold cross-validation** for robust evaluation  
-4. 📉 Regression metrics: MSE, MAE, R², Pearson correlation  
+4. 📉 Regression metrics: Spearman, Pearson correlation  
 5. 📊 Feature importance analysis to understand sequence influence  
 
 ## 💻 Installation  
