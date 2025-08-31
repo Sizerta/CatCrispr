@@ -1,0 +1,9 @@
+catboost
+pandas
+numpy
+matplotlib
+seaborn
+logomaker
+scipy
+scikit-learn
+openpyxl
