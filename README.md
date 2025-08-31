@@ -30,6 +30,6 @@ Designing efficient sgRNAs is essential for accurate **CRISPR-Cas9** genome edit
 Clone the repository and install dependencies:  
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Sizerta/CatCrispr
 cd CatCRISPR
 pip install -r requirements.txt
